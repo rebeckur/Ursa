@@ -1,0 +1,17 @@
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/digitallearning2/Ursa/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/digitallearning2/Ursa/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/digitallearning2/Ursa/Temp/bin/Debug/UnityEngine.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/UnityEditor.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Mono.Cecil.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Unity.DataContract.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/digitallearning2/Ursa/Temp/bin/Debug/Mono.Cecil.Mdb.dll
